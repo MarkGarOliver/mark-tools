@@ -12,7 +12,7 @@
 /build
 
 # misc
-/src/environment/index.tsx
+./src/environment/index.tsx
 
 .DS_Store
 .env.local

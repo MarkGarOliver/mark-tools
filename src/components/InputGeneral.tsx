@@ -11,7 +11,7 @@ const InputGeneral = (props: Props) => {
     return (
 
         <div className='m-2'>
-            <input className='w-80 h-10 bg-gray-100 placeholder-gray-500 p-2 focus:outline-none' placeholder={placeholder} type={type} id={id} required={isRequired}/>
+            <input className=' rounded-md w-56 sm:w-60 lg:w-80 h-10 bg-gray-100 placeholder-gray-500 p-2 focus:outline-none' placeholder={placeholder} type={type} id={id} required={isRequired}/>
         </div>
     );
 };

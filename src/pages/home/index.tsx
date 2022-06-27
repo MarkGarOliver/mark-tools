@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import { NavBar } from '../../components/partials/NavBar';
 type Props = {
     
 };
@@ -7,7 +8,11 @@ type Props = {
 const Home = (props: Props) => {
     return (
         <div>
-            Home Page
+            <NavBar/>
+
+            <div>
+                Home Page
+            </div>
         </div>
     );
 };

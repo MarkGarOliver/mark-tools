@@ -46,7 +46,7 @@ the system must to be responsive for mobile.
 - forget password option in login form
 
 - edit the user's profile (photo, username, password and email)
-### r2 - Todolist 
+### r2 - Todolist/tasks 
  
 - to create a new task
 - to delete a task
